@@ -3,4 +3,4 @@
 
 we created random color in this project
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Bu projede random renk oluşturduk
+Bu projede random renk oluşturduk.
